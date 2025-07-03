@@ -5,5 +5,7 @@ public class JavaGit {
         System.out.println("Main Test");
 
         System.out.println("First Change in Main");
+
+        System.out.println("new feature added");
     }
 }
